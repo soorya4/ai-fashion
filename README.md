@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```bash
 # Copy the example file
 cp .env.example .env
-
+change .env.example to .env
 # Edit .env and paste your OpenRouter key
 OPENROUTER_API_KEY=your_openrouter_api_key_here
 ```
