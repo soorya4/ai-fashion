@@ -31,8 +31,8 @@ python app.py
 ```
 
 ### 5. Open in Browser
-Visit: **[http://localhost:5000](http://localhost:5000)**
-
+Visit: **[http://localhost:5000]**
+Visit: **[https://ai-fashion-76uv.onrender.com/]**
 ---
 
 ## ✨ Features
