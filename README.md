@@ -32,7 +32,7 @@ python app.py
 
 ### 5. Open in Browser
 Visit: **[http://localhost:5000]**
-Visit: **[https://ai-fashion-76uv.onrender.com/]**
+Visit: **[https://ai-fashion-76uv.onrender.com/#generator]**
 ---
 
 ## ✨ Features
